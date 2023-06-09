@@ -1,0 +1,15 @@
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\bin\Debug\net6.0\ProvaEstágio3.exe
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\bin\Debug\net6.0\ProvaEstágio3.deps.json
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\bin\Debug\net6.0\ProvaEstágio3.runtimeconfig.json
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\bin\Debug\net6.0\ProvaEstágio3.dll
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\bin\Debug\net6.0\ProvaEstágio3.pdb
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.csproj.AssemblyReference.cache
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.AssemblyInfoInputs.cache
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.AssemblyInfo.cs
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.dll
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\refint\ProvaEstágio3.dll
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.pdb
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ProvaEstágio3.genruntimeconfig.cache
+C:\Users\jessi\Projetos\ProvaEstágio3\ProvaEstágio3\obj\Debug\net6.0\ref\ProvaEstágio3.dll

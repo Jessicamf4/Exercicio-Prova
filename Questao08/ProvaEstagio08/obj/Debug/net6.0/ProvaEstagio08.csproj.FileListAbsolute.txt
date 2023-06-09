@@ -1,0 +1,15 @@
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\bin\Debug\net6.0\ProvaEstagio08.exe
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\bin\Debug\net6.0\ProvaEstagio08.deps.json
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\bin\Debug\net6.0\ProvaEstagio08.runtimeconfig.json
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\bin\Debug\net6.0\ProvaEstagio08.dll
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\bin\Debug\net6.0\ProvaEstagio08.pdb
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.csproj.AssemblyReference.cache
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.AssemblyInfoInputs.cache
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.AssemblyInfo.cs
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.dll
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\refint\ProvaEstagio08.dll
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.pdb
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ProvaEstagio08.genruntimeconfig.cache
+C:\Users\jessi\Projetos\ProvaEstagio08\ProvaEstagio08\obj\Debug\net6.0\ref\ProvaEstagio08.dll
